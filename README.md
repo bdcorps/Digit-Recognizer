@@ -1,5 +1,9 @@
 # Digit-Recognizer
 
+2017.
+
+This is an ongoing project to identify a hand drawn digit using machine learning.
+
 ```
 git clone https://github.com/bdcorps/Digit-Recognizer.git # or clone your own fork
 cd Digit-Recognizer-master
